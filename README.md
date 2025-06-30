@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Iara Barcos
-![Banner](https://github.com/Iara2002/Iara2002/issues/1#issue-3189807881)
+(https://github.com/Iara2002/Iara2002/issues/1#issue-3189807881)
 
 📍 Argentina | 🎓 Técnica Superior en Desarrollo de Software  
 💻 Estudiante de Ingeniería en Sistemas | 🧪 Enfocada en Testing Manual & Automatizado  
