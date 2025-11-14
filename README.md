@@ -38,13 +38,40 @@ Actualmente me estoy especializando en **QA Automation**, integrando mis conocim
 
 ### 🚀 Proyectos de QA
 
-Todos mis proyectos de testing manual y automatizado están disponibles en este GitHub.  
-Estoy desarrollando scripts con Selenium, estructurando pruebas por casos reales y documentando resultados.
+Aquí encontrarás mis proyectos de **Testing Manual y Automatizado**, orientados a adquirir experiencia real en QA.  
+Trabajo sobre casos de uso reales, documentación clara y buenas prácticas de testing.
 
-🔹 **[Test de Login Automatizado - Sandra Marzzan](https://github.com/Iara2002/qa-sandramarzzan-login)**  
-Automatización del proceso de login en una plataforma web utilizando Python y Selenium. Incluye captura de pantalla del resultado, manejo de errores y validación de inputs.
+---
 
-🔧 Próximamente: testeo de formularios, validaciones de campos, test de API REST con Postman.
+### 🔹 **Test de Login Automatizado – Sandra Marzzan**  
+Automatización del flujo de inicio de sesión utilizando **Python + Selenium WebDriver**.  
+Incluye:
+- Validación de campos obligatorios  
+- Manejo de errores  
+- Captura de evidencias  
+- Reporte del resultado del test  
+
+🔗 *Repositorio:*  
+https://github.com/Iara2002/qa-sandramarzzan-login
+
+---
+
+### 🔹 **SandraMarzzanDB – Proyecto de Base de Datos (PostgreSQL)**  
+Diseño y creación de una base de datos completa para gestionar clientes, productos y ventas.  
+Incluye:
+- Modelo entidad–relación  
+- Creación de tablas con claves primarias y foráneas  
+- Carga de datos de prueba  
+- Consultas SQL reales (JOIN, filtros, cálculos)  
+- Evidencias y diagrama visual  
+
+🔗 *Repositorio:*  
+https://github.com/Iara2002/postgresql-sandramarzzan-db
+
+---
+
+### ⚙️ Próximos proyectos  
+Estoy trabajando en nuevas prácticas para ampliar mis ha
 
 ---
 
