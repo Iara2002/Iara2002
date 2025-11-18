@@ -18,8 +18,8 @@ Actualmente me estoy especializando en **QA Automation**, integrando mis conocim
 
 ### 📚 Formación
 
-- **Técnica Superior en Desarrollo de Software** – Finalizado (2022)  
 - **Ingeniería en Sistemas** – En curso  
+- **Técnica Superior en Desarrollo de Software** – Finalizado (2022)  
 - Cursos complementarios en testing manual y automatizado (Selenium, Pytest, Jira, etc.)
 
 ---
@@ -55,7 +55,19 @@ Incluye:
 https://github.com/Iara2002/qa-sandramarzzan-login
 
 ---
+###🔹 **API Testing con Postman – JSONPlaceholder**
+Proyecto de práctica sobre testing de APIs REST usando Postman, trabajando con la API pública JSONPlaceholder.
+Incluye:
+- Requests GET, POST y manejo de variables
+- Tests automáticos con scripts de validación
+- Encadenamiento entre requests
+- Exportación de colección y environment
+- Evidencias reales de ejecución
 
+🔗 *Repositorio:*
+https://github.com/Iara2002/qa-api-postman-jsonplaceholder
+
+---
 ### 🔹 **SandraMarzzanDB – Proyecto de Base de Datos (PostgreSQL)**  
 Diseño y creación de una base de datos completa para gestionar clientes, productos y ventas.  
 Incluye:
@@ -71,8 +83,11 @@ https://github.com/Iara2002/postgresql-sandramarzzan-db
 ---
 
 ### ⚙️ Próximos proyectos  
-Estoy trabajando en nuevas prácticas para ampliar mis ha
-
+Estoy trabajando en nuevas prácticas para ampliar mis habilidades como QA:
+- Automatización de API con Python + Requests
+- Pruebas de formularios web
+- Testeo de flujos de compra
+- Nuevas automatizaciones con Selenium
 ---
 
 ### 📬 Contacto
