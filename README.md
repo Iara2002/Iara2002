@@ -2,7 +2,7 @@
 # 👋 ¡Hola! Soy Iara Barcos
 
 📍 Argentina | 🎓 Técnica Superior en Desarrollo de Software  
-💻 Estudiante de Ingeniería en Sistemas | 🧪 Enfocada en Testing Manual & Automatizado  
+💻 Estudiante de Ingeniería en Sistemas | 🧪 Enfocada en QA Tester
 
 ---
 ![Banner](https://github.com/Iara2002/Iara2002/blob/main/banner.png?raw=true)
