@@ -20,7 +20,6 @@ Actualmente me estoy especializando en **QA Automation**, integrando mis conocim
 
 - **Ingeniería en Sistemas** – En curso  
 - **Técnica Superior en Desarrollo de Software** – Finalizado (2022)  
-- Cursos complementarios en testing manual y automatizado (Selenium, Pytest, Jira, etc.)
 
 ---
 
