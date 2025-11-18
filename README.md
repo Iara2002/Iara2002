@@ -55,7 +55,9 @@ Incluye:
 https://github.com/Iara2002/qa-sandramarzzan-login
 
 ---
-###🔹 **API Testing con Postman – JSONPlaceholder**
+
+### 🔹 **API Testing con Postman – JSONPlaceholder**
+
 Proyecto de práctica sobre testing de APIs REST usando Postman, trabajando con la API pública JSONPlaceholder.
 Incluye:
 - Requests GET, POST y manejo de variables
